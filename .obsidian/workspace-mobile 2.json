@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "9cc1a66baf62c5e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "93658830cf5d6b7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e159c88796bc88d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5308090fdcc31db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2ee21b685cd673d1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "36d7a62dfecc4651",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0ef4096bf1a981b4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "588d650488cfe9de",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a70901fc6f8b8e9f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e6d392268da9412e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7593ed6e11c82143",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a4c40b40f38b77e1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e159c88796bc88d0",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "physical/homework/第一次作业.docx",
+    "math/复变函数与积分变换/解析函数.md",
+    "math/概率统计与随机变换/置信区间.md",
+    "math/复变函数与积分变换/复数 2.md",
+    "math/复变函数与积分变换/三角函数.md",
+    "math/复变函数与积分变换/傅里叶变换.md",
+    "math/复变函数与积分变换/积分.md",
+    "math/复变函数与积分变换/复数.md",
+    "math/网络/复杂网络.md",
+    "math/网络/随机图.md",
+    "math/网络/网络动力学.md",
+    "math/网络/拓扑结构特征统计量.md",
+    "physical/homework/第一次作业.md",
+    "math/概率统计与随机变换/随机事件与概率.md",
+    "physical/未命名.md",
+    "Main.md",
+    "GITHUB Video site static.md",
+    "Thinking.md",
+    "math/概率统计与随机变换/古典概型.md",
+    "math/利用生成函数求斐波那契数列通项公式.md",
+    "physical/真空中的静电场.md"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "a7ec132970fcbbbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c924bc6bc9687188",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tmp/未命名.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef1e264fe70a21bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbd54936b2613960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73027297afb0d160",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "508f47f06c3647a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#德摩根律",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e2fbf6904d5ae2f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "38e267027cd09b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bae1ca096a70462",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0974a91b179f750",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tmp/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9f26b26980ca6c6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tmp/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7397f8be422a260",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b0df0a968b557a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tmp/未命名.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c924bc6bc9687188",
+  "lastOpenFiles": [
+    "math/网络/拓扑结构特征统计量.md",
+    "math/网络/网络动力学.md",
+    "tmp/未命名.md",
+    "math/复变函数与积分变换/三角函数.md",
+    "math/复变函数与积分变换/积分.md",
+    "math/复变函数与积分变换/解析函数.md",
+    "math/复变函数与积分变换/复数 2.md",
+    "math/复变函数与积分变换/复数.md",
+    "math/利用生成函数求斐波那契数列通项公式.md",
+    "Thinking.md"
+  ]
+}
