@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/逻辑回归/逻辑回归误差下降.md",
+                "file": "ML/贝叶斯分类/朴素贝叶斯分类.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ML/逻辑回归/逻辑回归误差下降.md",
+                "file": "ML/贝叶斯分类/朴素贝叶斯分类.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/逻辑回归/逻辑回归误差下降.md",
+            "file": "ML/贝叶斯分类/朴素贝叶斯分类.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/逻辑回归/逻辑回归误差下降.md",
+            "file": "ML/贝叶斯分类/朴素贝叶斯分类.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -176,7 +176,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ML/逻辑回归/逻辑回归误差下降.md"
+            "file": "ML/贝叶斯分类/朴素贝叶斯分类.md"
           }
         }
       }
@@ -195,15 +195,20 @@
   },
   "active": "8f902c4729ede06b",
   "lastOpenFiles": [
+    "Thinking.md",
+    "ML/贝叶斯分类/朴素贝叶斯分类.md",
+    "ML/贝叶斯分类",
+    "ML/逻辑回归/逻辑回归误差下降.md",
+    "ML/贝叶斯分类",
+    "ML/贝叶斯分类",
+    "Untitled",
     "physical/未命名.md",
     "2023-06-07.md",
     "ML/逻辑回归.md",
     "ML/逻辑回归",
     "Untitled 1.md",
-    "ML/逻辑回归/逻辑回归误差下降.md",
     "ML",
     "GITHUB Video site static.md",
-    "Thinking.md",
     "Main.md",
     "math/复变函数与积分变换/积分.md",
     "math/复变函数与积分变换/傅里叶变换.md",
