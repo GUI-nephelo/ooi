@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0f0d511821ed5e2e",
+        "id": "827adec3627f36b9",
         "type": "tabs",
         "children": [
           {
-            "id": "e159c88796bc88d0",
+            "id": "2438d08e53dd9cbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp/未命名.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "00aaf761226e4fcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmp/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmp/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tmp/未命名.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +136,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e159c88796bc88d0",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2438d08e53dd9cbd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2023-06-07.md",
     "physical/homework/第一次作业.md",
     "math/复变函数与积分变换/傅里叶变换(1).md",
     "math/复变函数与积分变换/积分.md",
