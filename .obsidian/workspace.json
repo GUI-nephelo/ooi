@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "827adec3627f36b9",
+        "id": "8b242fecd01ee0d1",
         "type": "tabs",
         "children": [
           {
-            "id": "2438d08e53dd9cbd",
+            "id": "2bb00da6f1e8fab4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,7 +154,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2438d08e53dd9cbd",
+  "active": "2bb00da6f1e8fab4",
   "lastOpenFiles": [
     "ML/贝叶斯分类/朴素贝叶斯分类.md",
     "ML/贝叶斯分类",
