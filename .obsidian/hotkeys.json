@@ -15,12 +15,13 @@
       "key": "Q"
     }
   ],
-  "obsidian-git:pull": [
+  "obsidian-git:push2": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
-      "key": "R"
+      "key": "S"
     }
   ]
 }
