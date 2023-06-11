@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb1eb5f6447ecf1b",
+        "id": "3a3a8ab5e08e2e35",
         "type": "tabs",
         "children": [
           {
-            "id": "c021f7dad9d5d7f9",
+            "id": "c4fed1bed315f45b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,10 +154,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c021f7dad9d5d7f9",
+  "active": "c4fed1bed315f45b",
   "lastOpenFiles": [
     "CS/DS&Algo/考试试题.md",
     "CS/DS&Algo/考试答案.md",
+    "[.md",
     "CS/DS&Algo/考试复习编程题/大数相乘.md",
     "CS/DS&Algo/大数运算.md",
     "CS/DS&Algo/考试复习编程题",
