@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DS&Algo/考试答案.md",
+                "file": "CS/DS&Algo/考试复习编程题/大数相乘.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DS&Algo/考试答案.md",
+                "file": "CS/DS&Algo/考试复习编程题/大数相乘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DS&Algo/考试答案.md",
+                "file": "CS/DS&Algo/考试复习编程题/大数相乘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DS&Algo/考试答案.md"
+                "file": "CS/DS&Algo/考试复习编程题/大数相乘.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "c4fed1bed315f45b",
   "lastOpenFiles": [
-    "CS/DS&Algo/考试试题.md",
     "CS/DS&Algo/考试答案.md",
+    "CS/DS&Algo/考试试题.md",
     "[.md",
     "CS/DS&Algo/考试复习编程题/大数相乘.md",
     "CS/DS&Algo/大数运算.md",
