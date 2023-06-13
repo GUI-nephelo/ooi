@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf1849199b0ee837",
+        "id": "b9fce7689a433b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "b776a15b82808452",
+            "id": "6c5dba99567d20e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#德摩根律",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,14 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b776a15b82808452",
+  "active": "6c5dba99567d20e7",
   "lastOpenFiles": [
+    "CS/DS&Algo/考试试题.md",
+    "未命名.canvas",
+    "CS/C++/复习笔记.md",
     "math/概率统计与随机变换/随机事件与概率.md",
     "physical/homework/第一次作业.md",
-    "CS/C++/复习笔记.md",
     "CS/DS&Algo/考试答案.md",
     "CS/C++",
-    "CS/DS&Algo/考试试题.md",
     "CS/Network/WSN/考试重点.md",
     "CS/Network/Route/NAT.md",
     "CS/Network/WSN",
@@ -182,7 +182,6 @@
     "math/复变函数与积分变换/三角函数.md",
     "math/复变函数与积分变换/傅里叶变换.md",
     "tmp/未命名.md",
-    "physical/真空中的静电场.md",
-    "math/复变函数与积分变换/复数 2.md"
+    "physical/真空中的静电场.md"
   ]
 }
