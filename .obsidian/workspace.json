@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a3a8ab5e08e2e35",
+        "id": "bf1849199b0ee837",
         "type": "tabs",
         "children": [
           {
-            "id": "c4fed1bed315f45b",
+            "id": "b776a15b82808452",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,21 +48,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#德摩根律",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "1d29a77f003e684e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -73,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,10 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c4fed1bed315f45b",
+  "active": "b776a15b82808452",
   "lastOpenFiles": [
-    "CS/DS&Algo/考试答案.md",
+    "math/概率统计与随机变换/随机事件与概率.md",
+    "physical/homework/第一次作业.md",
     "CS/C++/复习笔记.md",
+    "CS/DS&Algo/考试答案.md",
     "CS/C++",
     "CS/DS&Algo/考试试题.md",
     "CS/Network/WSN/考试重点.md",
@@ -181,7 +176,6 @@
     "ML/贝叶斯分类",
     "Untitled.md",
     "2023-06-07.md",
-    "physical/homework/第一次作业.md",
     "math/复变函数与积分变换/傅里叶变换(1).md",
     "math/复变函数与积分变换/积分.md",
     "math/复变函数与积分变换/解析函数.md",
@@ -189,7 +183,6 @@
     "math/复变函数与积分变换/傅里叶变换.md",
     "tmp/未命名.md",
     "physical/真空中的静电场.md",
-    "math/复变函数与积分变换/复数 2.md",
-    "math/利用生成函数求斐波那契数列通项公式.md"
+    "math/复变函数与积分变换/复数 2.md"
   ]
 }
