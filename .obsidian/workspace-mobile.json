@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Network/WSN/考试重点.md",
+                "file": "Thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS/Network/WSN/考试重点.md",
+                "file": "Thinking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CS/Network/WSN/考试重点.md",
+            "file": "Thinking.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CS/Network/WSN/考试重点.md",
+            "file": "Thinking.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -172,7 +172,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CS/Network/WSN/考试重点.md"
+            "file": "Thinking.md"
           }
         }
       }
@@ -191,12 +191,12 @@
   },
   "active": "8f902c4729ede06b",
   "lastOpenFiles": [
+    "CS/DS&Algo/考试答案.md",
+    "CS/Network/WSN/考试重点.md",
     "CS/Network/Route/NAT.md",
     "Thinking.md",
-    "CS/Network/WSN/考试重点.md",
     "CS/Network/WSN",
     "CS/Network/Route/Untitled.canvas",
-    "CS/DS&Algo/考试答案.md",
     "CS/Network/Route",
     "CS/Network",
     "CS/DS&Algo/考试试题.md",
