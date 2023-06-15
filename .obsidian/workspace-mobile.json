@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinking.md",
+                "file": "ML/模型评估与选择/性能度量.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Thinking.md",
+                "file": "ML/模型评估与选择/性能度量.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Thinking.md",
+            "file": "ML/模型评估与选择/性能度量.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Thinking.md",
+            "file": "ML/模型评估与选择/性能度量.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Thinking.md"
+            "file": "ML/模型评估与选择/性能度量.md"
           }
         }
       }
@@ -183,6 +183,7 @@
   "active": "e159c88796bc88d0",
   "lastOpenFiles": [
     "CS/C++/复习笔记.md",
+    "Thinking.md",
     "ML/模型评估与选择/性能度量.md",
     "CS/DS&Algo/考试答案.md",
     "ML/模型评估与选择",
@@ -198,7 +199,6 @@
     "CS/DS&Algo/二叉排序树/Untitled.canvas",
     "CS/DS&Algo/Untitled.md",
     "CS/DS&Algo/二叉搜索树",
-    "Thinking.md",
     "CS/Network/WSN/考试重点.md",
     "CS/Network/Route/NAT.md",
     "CS/Network/WSN",
