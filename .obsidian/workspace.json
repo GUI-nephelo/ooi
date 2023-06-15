@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DS&Algo/考试复习编程题/N皇后问题.md",
+                "file": "CS/DS&Algo/考试试题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DS&Algo/考试复习编程题/N皇后问题.md",
+                "file": "CS/DS&Algo/考试试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DS&Algo/考试复习编程题/N皇后问题.md",
+                "file": "CS/DS&Algo/考试试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DS&Algo/考试复习编程题/N皇后问题.md"
+                "file": "CS/DS&Algo/考试试题.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "6c5dba99567d20e7",
   "lastOpenFiles": [
-    "CS/C++/复习笔记.md",
     "CS/DS&Algo/考试复习编程题/N皇后问题.md",
+    "CS/DS&Algo/考试试题.md",
+    "CS/DS&Algo/考试复习编程题/输入文本.md",
+    "CS/C++/复习笔记.md",
     "ML/模型评估与选择/性能度量.md",
     "ML/模型评估与选择",
     "CS/DS&Algo/搜索/二叉搜索树.md",
     "CS/DS&Algo/搜索",
     "CS/DS&Algo/考试答案.md",
-    "CS/DS&Algo/考试试题.md",
     "math/网络/随机图.md",
     "math/网络/复杂网络.md",
     "math/网络/网络动力学.md",
@@ -180,7 +181,6 @@
     "CS/Network",
     "CS/DS&Algo/考试复习编程题/大数相乘.md",
     "[.md",
-    "CS/DS&Algo/大数运算.md",
     "CS/DS&Algo/考试复习编程题",
     "CS/DS&Algo",
     "CS",
