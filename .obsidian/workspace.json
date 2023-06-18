@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/SVM/核函数.md",
+                "file": "ML/SVM/拉格朗日乘子法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/SVM/核函数.md",
+                "file": "ML/SVM/拉格朗日乘子法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/SVM/核函数.md",
+                "file": "ML/SVM/拉格朗日乘子法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/SVM/核函数.md"
+                "file": "ML/SVM/拉格朗日乘子法.md"
               }
             }
           }
@@ -146,18 +146,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "44f348711e4c8a2a",
+  "active": "6c5dba99567d20e7",
   "lastOpenFiles": [
+    "ML/逻辑回归/逻辑回归误差下降.md",
+    "ML/SVM/拉格朗日乘子法.md",
     "CS/DS&Algo/考试/各个性质.md",
+    "ML/SVM/核函数.md",
     "CS/DS&Algo/考试/考试问答题答案.md",
     "CS/DS&Algo/考试/考试复习编程题/未命名.md",
     "CS/DS&Algo/考试/线性表的性质.md",
     "CS/DS&Algo/考试/考试试题.md",
     "CS/DS&Algo/考试",
     "CS/DS&Algo/考试/考试复习编程题/输入文本.md",
-    "ML/SVM/核函数.md",
     "ML/模型评估与选择/性能度量.md",
-    "ML/逻辑回归/逻辑回归误差下降.md",
     "ML/贝叶斯分类/朴素贝叶斯分类代码实践 GaussianNB.md",
     "ML/贝叶斯分类/朴素贝叶斯分类.md",
     "ML/贝叶斯分类/概率图.md",
@@ -176,7 +177,6 @@
     "math/利用生成函数求斐波那契数列通项公式.md",
     "math/概率统计与随机变换/置信区间.md",
     "math/概率统计与随机变换/随机事件与概率.md",
-    "math/概率统计与随机变换/古典概型.md",
     "未命名.canvas",
     "CS/C++",
     "CS/Network/WSN",
