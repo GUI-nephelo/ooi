@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/逻辑回归/逻辑回归误差下降.md",
+                "file": "ML/SVM/拉格朗日乘子法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/逻辑回归/逻辑回归误差下降.md",
+                "file": "ML/SVM/拉格朗日乘子法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/逻辑回归/逻辑回归误差下降.md",
+                "file": "ML/SVM/拉格朗日乘子法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/逻辑回归/逻辑回归误差下降.md"
+                "file": "ML/SVM/拉格朗日乘子法.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "6c5dba99567d20e7",
   "lastOpenFiles": [
+    "ML/逻辑回归/逻辑回归误差下降.md",
     "ML/模型评估与选择/性能度量.md",
     "ML/SVM/拉格朗日乘子法.md",
-    "ML/逻辑回归/逻辑回归误差下降.md",
     "CS/DS&Algo/考试/各个性质.md",
     "ML/SVM/核函数.md",
     "CS/DS&Algo/考试/考试问答题答案.md",
