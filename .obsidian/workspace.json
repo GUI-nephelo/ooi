@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/SVM/拉格朗日乘子法.md",
+                "file": "CS/DS&Algo/考试/考试试题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/SVM/拉格朗日乘子法.md",
+                "file": "CS/DS&Algo/考试/考试试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/SVM/拉格朗日乘子法.md",
+                "file": "CS/DS&Algo/考试/考试试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/SVM/拉格朗日乘子法.md"
+                "file": "CS/DS&Algo/考试/考试试题.md"
               }
             }
           }
@@ -148,24 +148,24 @@
   },
   "active": "6c5dba99567d20e7",
   "lastOpenFiles": [
+    "CS/DS&Algo/考试/考试问答题答案.md",
+    "CS/DS&Algo/考试/考试试题.md",
+    "CS/DS&Algo/考试/考试复习编程题/N皇后问题.md",
+    "CS/DS&Algo/考试/各个性质.md",
+    "CS/DS&Algo/考试/考试复习编程题/链表插入删除.md",
+    "CS/DS&Algo/考试/考试复习编程题/大数相乘.md",
+    "ML/SVM/拉格朗日乘子法.md",
     "ML/逻辑回归/逻辑回归误差下降.md",
     "ML/模型评估与选择/性能度量.md",
-    "ML/SVM/拉格朗日乘子法.md",
-    "CS/DS&Algo/考试/各个性质.md",
     "ML/SVM/核函数.md",
-    "CS/DS&Algo/考试/考试问答题答案.md",
     "CS/DS&Algo/考试/考试复习编程题/未命名.md",
     "CS/DS&Algo/考试/线性表的性质.md",
-    "CS/DS&Algo/考试/考试试题.md",
     "CS/DS&Algo/考试",
     "CS/DS&Algo/考试/考试复习编程题/输入文本.md",
     "ML/贝叶斯分类/朴素贝叶斯分类代码实践 GaussianNB.md",
     "ML/贝叶斯分类/朴素贝叶斯分类.md",
     "ML/贝叶斯分类/概率图.md",
-    "CS/DS&Algo/考试/考试复习编程题/链表插入删除.md",
     "CS/DS&Algo/考试/考试复习编程题/二叉树中序递归遍历.md",
-    "CS/DS&Algo/考试/考试复习编程题/大数相乘.md",
-    "CS/DS&Algo/考试/考试复习编程题/N皇后问题.md",
     "CS/C++/复习笔记.md",
     "ML/模型评估与选择",
     "CS/DS&Algo/搜索/二叉搜索树.md",
