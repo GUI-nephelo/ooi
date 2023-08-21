@@ -35,14 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/plan.md",
+                "file": "Thinking.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3fd1f2f333168e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/plan.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/plan.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/plan.md"
+                "file": "Plan.md"
               }
             }
           }
@@ -169,8 +181,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "61387750faa63d79",
+  "active": "e3fd1f2f333168e0",
   "lastOpenFiles": [
+    "Main.md",
+    "Plan.md",
+    "Thinking.md",
     "LLM/plan.md",
     "LLM",
     "Pasted image 20230624150321.png",
@@ -199,8 +214,6 @@
     "math/网络/随机图.md",
     "math/网络/复杂网络.md",
     "math/网络/网络动力学.md",
-    "math/网络/拓扑结构特征统计量.md",
-    "math/利用生成函数求斐波那契数列通项公式.md",
     "未命名.canvas",
     "CS/C++",
     "CS/Network/WSN",
