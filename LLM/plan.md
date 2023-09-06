@@ -15,10 +15,10 @@ https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/
 ### LangChain
 
 大型语言模型与生成式AI
-
 https://space.bilibili.com/589397373/channel/collectiondetail?sid=1489240
 
-基于LangChain的大语言模型应用开发https://space.bilibili.com/589397373/channel/collectiondetail?sid=1445896
+基于LangChain的大语言模型应用开发
+https://space.bilibili.com/589397373/channel/collectiondetail?sid=1445896
 
 LangChain: 构建与数据对话的聊天机器人
 

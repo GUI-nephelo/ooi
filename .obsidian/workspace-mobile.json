@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/模型评估与选择/性能度量.md",
+                "file": "daily/2023-09-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2295e0fac83a88ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-09-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb943303b4c0f9db",
@@ -31,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ML/模型评估与选择/性能度量.md",
+                "file": "daily/2023-09-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +147,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/模型评估与选择/性能度量.md",
+            "file": "daily/2023-09-06.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/模型评估与选择/性能度量.md",
+            "file": "daily/2023-09-06.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +176,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ML/模型评估与选择/性能度量.md"
+            "file": "daily/2023-09-06.md"
           }
         }
       }
@@ -180,10 +193,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e159c88796bc88d0",
+  "active": "2295e0fac83a88ae",
   "lastOpenFiles": [
-    "CS/C++/复习笔记.md",
+    "template.md",
+    "daily/2023-09-06.md",
+    "Untitled.md",
+    "LLM/plan.md",
+    "daily",
+    "Plan.md",
     "Thinking.md",
+    "CS/C++/复习笔记.md",
+    "ML/贝叶斯分类/概率图.md",
+    "CS/Network/复习.md",
+    "CS/Network/WSN/考试重点.md",
+    "CS/Network/Route/NAT.md",
+    "CS/DS&Algo/考试/考试问答题答案.md",
+    "CS/DS&Algo/考试/各个性质.md",
+    "CS/DS&Algo/考试/考试试题.md",
+    "CS/DS&Algo/考试/考试复习编程题/N皇后问题.md",
     "ML/模型评估与选择/性能度量.md",
     "CS/DS&Algo/考试答案.md",
     "ML/模型评估与选择",
@@ -199,26 +226,12 @@
     "CS/DS&Algo/二叉排序树/Untitled.canvas",
     "CS/DS&Algo/Untitled.md",
     "CS/DS&Algo/二叉搜索树",
-    "CS/Network/WSN/考试重点.md",
-    "CS/Network/Route/NAT.md",
     "CS/Network/WSN",
     "CS/Network/Route/Untitled.canvas",
     "CS/Network/Route",
     "CS/Network",
-    "CS/DS&Algo/大数运算.md",
-    "ML/贝叶斯分类/朴素贝叶斯分类代码实践.md",
-    "Untitled.md",
     "CS/DS&Algo",
     "CS",
-    "ML/贝叶斯分类/朴素贝叶斯分类.md",
-    "ML/贝叶斯分类/概率图.md",
-    "ML/逻辑回归/逻辑回归误差下降.md",
-    "ML/SVM",
-    "ML/贝叶斯分类",
-    "physical/未命名.md",
-    "2023-06-07.md",
-    "ML/逻辑回归.md",
-    "Untitled 1.md",
-    "GITHUB Video site static.md"
+    "ML/SVM"
   ]
 }
