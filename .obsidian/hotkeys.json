@@ -23,5 +23,14 @@
       ],
       "key": "S"
     }
+  ],
+  "command-palette:open": [],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }
