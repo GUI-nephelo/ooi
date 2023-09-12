@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-09-12.md",
+                "file": "daily/2023-09-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-09-12.md",
+                "file": "daily/2023-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-09-12.md",
+                "file": "daily/2023-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-09-12.md"
+                "file": "daily/2023-09-06.md"
               }
             }
           }
@@ -219,18 +219,18 @@
   },
   "active": "fbcdcd6a0bd929cd",
   "lastOpenFiles": [
+    "daily/2023-09-07.md",
     "daily/2023-09-11.md",
     "daily/2023-09-12.md",
-    "conflict-files-obsidian-git.md",
     "daily/2023-09-08.md",
-    "daily/2023-09-07.md",
+    "daily/2023-09-06.md",
+    "conflict-files-obsidian-git.md",
     "ML/Kmeans/选择K值的方法.md",
     "Plan.md",
     "ML/Kmeans",
     "未命名.md",
     "LLM/plan.md",
     "template.md",
-    "daily/2023-09-06.md",
     "daily",
     "CS/Network/复习.md",
     "Main.md",
