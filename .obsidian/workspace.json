@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbcdcd6a0bd929cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-09-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -205,11 +217,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "15274813a6888d71",
+  "active": "fbcdcd6a0bd929cd",
   "lastOpenFiles": [
-    "daily/2023-09-07.md",
+    "daily/2023-09-11.md",
     "daily/2023-09-12.md",
     "conflict-files-obsidian-git.md",
+    "daily/2023-09-08.md",
+    "daily/2023-09-07.md",
     "ML/Kmeans/选择K值的方法.md",
     "Plan.md",
     "ML/Kmeans",
@@ -235,8 +249,6 @@
     "ML/SVM/拉格朗日乘子法.md",
     "ML/逻辑回归/逻辑回归误差下降.md",
     "ML/模型评估与选择/性能度量.md",
-    "ML/SVM/核函数.md",
-    "CS/DS&Algo/考试/考试复习编程题/未命名.md",
     "CS/DS&Algo/考试",
     "ML/模型评估与选择",
     "CS/DS&Algo/搜索",
