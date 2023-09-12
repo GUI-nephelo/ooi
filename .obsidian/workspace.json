@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-09-07.md",
+                "file": "daily/2023-09-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-09-07.md",
+                "file": "daily/2023-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-09-07.md",
+                "file": "daily/2023-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-09-07.md"
+                "file": "daily/2023-09-12.md"
               }
             }
           }
@@ -207,8 +207,9 @@
   },
   "active": "15274813a6888d71",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "daily/2023-09-07.md",
+    "daily/2023-09-12.md",
+    "conflict-files-obsidian-git.md",
     "ML/Kmeans/选择K值的方法.md",
     "Plan.md",
     "ML/Kmeans",
@@ -236,7 +237,6 @@
     "ML/模型评估与选择/性能度量.md",
     "ML/SVM/核函数.md",
     "CS/DS&Algo/考试/考试复习编程题/未命名.md",
-    "CS/DS&Algo/考试/线性表的性质.md",
     "CS/DS&Algo/考试",
     "ML/模型评估与选择",
     "CS/DS&Algo/搜索",
