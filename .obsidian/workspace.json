@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-09-06.md",
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-09-06.md"
+                "file": "Task.md"
               }
             }
           }
@@ -217,24 +215,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fbcdcd6a0bd929cd",
+  "active": "44f348711e4c8a2a",
   "lastOpenFiles": [
+    "Plan.md",
+    "Task.md",
+    "Main.md",
+    "Thinking.md",
+    "template.md",
+    "daily/2023-09-06.md",
     "daily/2023-09-07.md",
     "daily/2023-09-11.md",
     "daily/2023-09-12.md",
     "daily/2023-09-08.md",
-    "daily/2023-09-06.md",
     "conflict-files-obsidian-git.md",
     "ML/Kmeans/选择K值的方法.md",
-    "Plan.md",
     "ML/Kmeans",
-    "未命名.md",
     "LLM/plan.md",
-    "template.md",
     "daily",
     "CS/Network/复习.md",
-    "Main.md",
-    "Thinking.md",
     "LLM",
     "Pasted image 20230624150321.png",
     "CS/C++/复习笔记.md",
