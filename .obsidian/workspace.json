@@ -59,42 +59,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-09-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15274813a6888d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023-09-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbcdcd6a0bd929cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e2fcd9994a55110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "daily/2023-09-23.md",
                 "mode": "source",
                 "source": false
@@ -102,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,19 +203,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6e2fcd9994a55110",
+  "active": "f38212c0a898f990",
   "lastOpenFiles": [
+    "daily/2023-09-07.md",
+    "daily/2023-09-23.md",
     "daily/2023-09-20.md",
     "daily/2023-09-14.md",
     "daily/2023-09-13.md",
-    "daily/2023-09-23.md",
     "Task.md",
     "Plan.md",
     "Main.md",
     "Thinking.md",
     "template.md",
     "daily/2023-09-06.md",
-    "daily/2023-09-07.md",
     "daily/2023-09-11.md",
     "daily/2023-09-12.md",
     "daily/2023-09-08.md",
