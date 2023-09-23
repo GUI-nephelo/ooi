@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-09-12.md",
+                "file": "daily/2023-09-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily/2023-09-12.md",
+                "file": "daily/2023-09-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "daily/2023-09-12.md",
+            "file": "daily/2023-09-20.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "daily/2023-09-12.md",
+            "file": "daily/2023-09-20.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -176,7 +176,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "daily/2023-09-12.md"
+            "file": "daily/2023-09-20.md"
           }
         }
       }
@@ -195,15 +195,18 @@
   },
   "active": "2295e0fac83a88ae",
   "lastOpenFiles": [
+    "daily/2023-09-14.md",
+    "daily/2023-09-20.md",
+    "daily/2023-09-13.md",
+    "template.md",
+    "daily/2023-09-12.md",
     "daily/2023-09-11.md",
     "daily/2023-09-06.md",
-    "daily/2023-09-12.md",
     "daily/2023-09-08.md",
     "daily/2023-09-07.md",
     "math/复变函数与积分变换/三角函数.md",
     "math/复变函数与积分变换/复数 2.md",
     "CS/DS&Algo/考试/考试问答题答案.md",
-    "template.md",
     "Untitled.md",
     "LLM/plan.md",
     "daily",
@@ -220,9 +223,6 @@
     "ML/模型评估与选择/性能度量.md",
     "CS/DS&Algo/考试答案.md",
     "ML/模型评估与选择",
-    "CS/DS&Algo/考试试题.md",
-    "CS/DS&Algo/搜索/二叉搜索树.md",
-    "CS/DS&Algo/二叉搜索树/插入.md",
     "CS/DS&Algo/搜索",
     "CS/DS&Algo/二叉排序树/Untitled.canvas",
     "CS/DS&Algo/二叉搜索树",
