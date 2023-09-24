@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8db2accb80146202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-09-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-09-23.md",
+                "file": "daily/2023-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-09-23.md",
+                "file": "daily/2023-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-09-23.md"
+                "file": "daily/2023-09-24.md"
               }
             }
           },
@@ -203,8 +215,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f38212c0a898f990",
+  "active": "8db2accb80146202",
   "lastOpenFiles": [
+    "daily/2023-09-24.md",
+    "daily/2023-09-22.md",
+    "daily/2023-09-21.md",
     "daily/2023-09-07.md",
     "daily/2023-09-23.md",
     "daily/2023-09-20.md",
@@ -232,9 +247,6 @@
     "CS/DS&Algo/考试/各个性质.md",
     "CS/DS&Algo/考试/考试问答题答案.md",
     "CS/DS&Algo/考试/考试试题.md",
-    "CS/DS&Algo/考试/考试复习编程题/链表插入删除.md",
-    "CS/DS&Algo/考试/考试复习编程题/输入文本.md",
-    "CS/DS&Algo/考试/考试复习编程题/大数相乘.md",
     "CS/DS&Algo/考试",
     "ML/模型评估与选择",
     "CS/DS&Algo/搜索",
