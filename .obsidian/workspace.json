@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-09-25.md",
+                "file": "daily/2023-09-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-09-25.md",
+                "file": "daily/2023-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-09-25.md",
+                "file": "daily/2023-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-09-25.md"
+                "file": "daily/2023-09-20.md"
               }
             }
           },
@@ -217,15 +217,15 @@
   },
   "active": "8db2accb80146202",
   "lastOpenFiles": [
-    "daily/2023-09-23.md",
-    "daily/2023-09-25.md",
-    "daily/2023-09-24.md",
-    "daily/2023-09-22.md",
     "daily/2023-09-21.md",
-    "daily/2023-09-07.md",
     "daily/2023-09-20.md",
     "daily/2023-09-14.md",
     "daily/2023-09-13.md",
+    "daily/2023-09-22.md",
+    "daily/2023-09-23.md",
+    "daily/2023-09-25.md",
+    "daily/2023-09-24.md",
+    "daily/2023-09-07.md",
     "Task.md",
     "Plan.md",
     "Main.md",
