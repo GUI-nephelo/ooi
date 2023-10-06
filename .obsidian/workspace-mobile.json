@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-09-20.md",
+                "file": "daily/2023-09-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily/2023-09-20.md",
+                "file": "daily/2023-09-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "daily/2023-09-20.md",
+            "file": "daily/2023-09-27.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "daily/2023-09-20.md",
+            "file": "daily/2023-09-27.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -176,7 +176,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "daily/2023-09-20.md"
+            "file": "daily/2023-09-27.md"
           }
         }
       }
@@ -195,14 +195,16 @@
   },
   "active": "4afb47ad2d527e28",
   "lastOpenFiles": [
-    "daily/2023-09-26.md",
+    "daily/2023-10-04.md",
+    "daily/2023-09-27.md",
     "daily/2023-09-06.md",
+    "daily/2023-09-21.md",
+    "daily/2023-09-22.md",
+    "daily/2023-09-23.md",
+    "daily/2023-09-26.md",
     "daily/2023-09-14.md",
     "daily/2023-09-13.md",
     "daily/2023-09-12.md",
-    "daily/2023-09-23.md",
-    "daily/2023-09-22.md",
-    "daily/2023-09-21.md",
     "daily/2023-09-20.md",
     "template.md",
     "daily/2023-09-11.md",
@@ -220,8 +222,6 @@
     "ML/贝叶斯分类/概率图.md",
     "CS/Network/复习.md",
     "CS/Network/WSN/考试重点.md",
-    "CS/Network/Route/NAT.md",
-    "CS/DS&Algo/考试/各个性质.md",
     "ML/模型评估与选择",
     "CS/DS&Algo/搜索",
     "CS/DS&Algo/二叉排序树/Untitled.canvas",
