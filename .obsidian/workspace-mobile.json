@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-09-27.md",
+                "file": "Thinking.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily/2023-09-27.md",
+                "file": "Thinking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "daily/2023-09-27.md",
+            "file": "Thinking.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "daily/2023-09-27.md",
+            "file": "Thinking.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -176,7 +176,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "daily/2023-09-27.md"
+            "file": "Thinking.md"
           }
         }
       }
@@ -193,11 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4afb47ad2d527e28",
+  "active": "2295e0fac83a88ae",
   "lastOpenFiles": [
+    "daily/2023-09-06.md",
+    "daily/2023-10-30.md",
+    "daily/2023-10-18.md",
+    "daily/2023-10-07.md",
     "daily/2023-10-04.md",
     "daily/2023-09-27.md",
-    "daily/2023-09-06.md",
     "daily/2023-09-21.md",
     "daily/2023-09-22.md",
     "daily/2023-09-23.md",
@@ -219,9 +222,6 @@
     "Plan.md",
     "Thinking.md",
     "CS/C++/复习笔记.md",
-    "ML/贝叶斯分类/概率图.md",
-    "CS/Network/复习.md",
-    "CS/Network/WSN/考试重点.md",
     "ML/模型评估与选择",
     "CS/DS&Algo/搜索",
     "CS/DS&Algo/二叉排序树/Untitled.canvas",
